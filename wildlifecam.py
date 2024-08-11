@@ -196,9 +196,9 @@ def save_individual_animal_activity_plots(csv_path, output_folder, time_threshol
         plt.close()  # Schließt das aktuelle Diagramm, um Ressourcen freizugeben
 
 # Pfad zur CSV-Datei
-csv_path = r'E:\Wildkamera\240810\101MEDIA\deepfaune.csv'
+csv_path = r'E:\Wildkamera\240810\100MEDIA\deepfaune.csv'
 # Basispfad, wo die Dateien gespeichert sind (angepasst für Ihr Beispiel)
-base_path = r'E:\Wildkamera\240810\101MEDIA'
+base_path = r'E:\Wildkamera\240810\100MEDIA'
 
 #output_folder = r'E:\Wildkamera\plots'  # Stellen Sie sicher, dass dieser Pfad existiert oder angelegt wird
 output_folder = base_path
